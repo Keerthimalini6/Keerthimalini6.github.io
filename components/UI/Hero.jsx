@@ -95,39 +95,6 @@ const Hero = () => {
               <Image alt="hero-image" src={profile5} width="230" height="300" />
 
             </div>
-            {/* <div className={`${classes.hero__skills}`}>
-                <h6>Skills</h6>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-                <span>
-                  <i className="ri-bar-chart-line"></i>
-                </span>
-              </div>
-
-              <div
-                className={`${classes.hero__experience} d-flex align-items-center gap-3`}
-              >
-                <span>
-                  <i className="ri-lightbulb-flash-line"></i>
-                </span>
-                <div className="bg-transparent">
-                  <h6>Experience</h6>
-                  <h5 className="mb-0">4 Years</h5>
-                </div>
-              </div> */}
           </Col>
         </Row>
       </Container>
