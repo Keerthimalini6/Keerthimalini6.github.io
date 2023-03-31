@@ -54,7 +54,7 @@ const Hero = () => {
                 Hello
               </motion.h5>
               <motion.h2 className="mt-3 mb-3" variants={headingVariants} initial="hidden" animate="visible">
-                I'm Keerthi malini
+                I&apos;m Keerthi malini
               </motion.h2>
               <motion.h5
                 className={`${classes.h5_text}`}
