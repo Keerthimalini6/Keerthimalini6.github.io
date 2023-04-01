@@ -16,7 +16,7 @@
 }
 
 .logo h1 span {
-  color: #f58f7c;
+  color: rgb(1,237,255);
 }
 
 .nav__menu {
@@ -37,15 +37,15 @@
 
 
 .nav__menu a:hover {
-  color: #f58f7c;
+  color: rgb(1,237,255);
 }
 
 .nav__menu a:first-child {
-  color: #f58f7c;
+  color: rgb(1,237,255);
 }
 
 .nav__right p {
-  color: #f58f7c;
+  color: rgb(1,237,255);
   margin-left: 20px;
   position: relative;
 }
@@ -71,7 +71,7 @@
   width: 100%;
   height: 80px;
   line-height: 60px;
-  box-shadow: 5px 5px 15px -5px #f58f7c !important;
+  box-shadow: 5px 5px 15px -5px rgb(1,237,255) !important;
   z-index: 9999;
 }
 
@@ -95,7 +95,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background: #f58f7c;
+    background: rgb(1,237,255);
     z-index: 99999;
     display: none;
   }

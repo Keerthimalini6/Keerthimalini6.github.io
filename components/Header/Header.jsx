@@ -88,7 +88,7 @@ const Header = () => {
             animate="visible"
           >
             <h1>
-              <span>K</span>eerthi malini
+              <span>P</span>ortfolio
             </h1>
           </motion.div>
 

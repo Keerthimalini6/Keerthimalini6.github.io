@@ -51,10 +51,10 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible"
               >
-                Hello
+                Hello, It&apos;s Me
               </motion.h5>
               <motion.h2 className="mt-3 mb-3" variants={headingVariants} initial="hidden" animate="visible">
-                I&apos;m Keerthi malini
+                Keerthi malini
               </motion.h2>
               <motion.h5
                 className={`${classes.h5_text}`}
@@ -62,7 +62,7 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible"
               >
-                Full Stack Web Developer
+                And I&apos;m a <span class="type-animation animating">Full Stack Web Developer</span>
               </motion.h5>
 
               <p className={`${classes.p_text}`}>
