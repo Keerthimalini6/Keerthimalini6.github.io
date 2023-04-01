@@ -8,7 +8,6 @@ import { BsGithub } from 'react-icons/bs'
 import { AiOutlineLinkedin } from 'react-icons/ai'
 import { AiOutlineMail } from "react-icons/ai"
 import { BiPhoneCall } from "react-icons/bi"
-import { TypeAnimation } from 'react-type-animation';
 import { motion } from "framer-motion";
 
 const Hero = () => {
@@ -62,7 +61,9 @@ const Hero = () => {
                 initial="hidden"
                 animate="visible"
               >
-                And I&apos;m a <span class="type-animation animating">Full Stack Web Developer</span>
+                And I&apos;m a  <Typing>
+                  <span>Full Stack Web Developer</span>
+                </Typing>
               </motion.h5>
 
               <p className={`${classes.p_text}`}>

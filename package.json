@@ -2,6 +2,7 @@
   "name": "Keerthimalini6.github.io",
   "version": "0.1.0",
   "private": true,
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,17 +10,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.5.5",
-    "@emotion/react": "^11.10.6",
-    "@emotion/styled": "^11.10.6",
     "bootstrap": "^5.1.3",
+    "caniuse-lite": "^1.0.30001473",
     "framer-motion": "^10.10.0",
     "next": "12.1.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "react-slick": "^0.29.0",
-    "react-type-animation": "^3.0.1",
     "reactstrap": "^9.1.1",
     "remixicon": "^2.5.0",
     "slick-carousel": "^1.8.1"
